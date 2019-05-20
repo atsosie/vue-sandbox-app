@@ -3,6 +3,7 @@
     fluid
     fill-height
     class="home-hero"
+    style="max-height: 100vh;"
   >
     <v-layout
       justify-center
